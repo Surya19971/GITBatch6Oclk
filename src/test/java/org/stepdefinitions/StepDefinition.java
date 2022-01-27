@@ -37,7 +37,7 @@ public class StepDefinition extends BaseClass {
 		Assert.assertTrue("check the menu", a.equals("page-header__account-link"));
 		System.out.println(a);
 		screenShot("C:\\Users\\welcome\\Downloads\\photon\\eclipse\\RealTime\\Screenshot\\ss1.png");
-		
+		System.out.println("done");
 	    
 	}
 
